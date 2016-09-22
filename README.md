@@ -1,4 +1,4 @@
-# gwama_reports_tau2
+# GWAMAgetTausquared
 A tweaked version of [GWAMA](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-11-288) that reports the tau_squared heterogeneity statistic
 
 INSTALLATION (MAC/UNIX)
