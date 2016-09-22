@@ -1,0 +1,6 @@
+{
+  "name": "GWAMAgetTausquared",
+  "tagline": "A tweaked version of GWAMA that reports the Tau squared heterogeneity statistic",
+  "body": "# GWAMAgetTausquared\r\nA tweaked version of [GWAMA](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-11-288) that reports the tau_squared heterogeneity statistic\r\n\r\nINSTALLATION (MAC/UNIX)\r\n\r\n#### Extract the tar.gz file:\r\ntar xvzf gwama_reports_tau2.tar.gz\r\n\r\n#### Change directory into the gwama folder:\r\ncd gwama\r\n\r\n#### Compile gwama:\r\nmake \r\n\r\n#### Run gwama:\r\nGWAMA\r\n\r\n#### Author\r\nLerato E. Magosi\r\n\r\n#### Contacts or Support\r\nmagosil86@gmail.com\r\n\r\n#### References\r\n[Magi R, Morris AP: GWAMA: software for genome-wide association meta-analysis. BMC Bioinformatics 2010, 11:288.](http://www.geenivaramu.ee/en/tools/gwama)\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
