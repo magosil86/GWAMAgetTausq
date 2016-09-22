@@ -1,3 +1,13 @@
+<!--
+  Title: GWAMAgetTausquared
+  Description: A tweaked version of that reports the tau squared heterogeneity statistic.
+  Author: Lerato E. Magosi, Oxford University, U.K.
+  lmagosi@well.ox.ac.uk
+  magosil86@gmail.com
+  -->
+
+<meta name='keywords' content='heterogeneity, tau, GWAMA, meta- analysis, GWAS'>
+
 # GWAMAgetTausquared
 A tweaked version of [GWAMA](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-11-288) that reports the tau_squared heterogeneity statistic
 
