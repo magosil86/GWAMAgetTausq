@@ -26,10 +26,9 @@ make
 GWAMA
 
 #### Author
-Lerato E. Magosi, Oxford University, U.K.
+Lerato E. Magosi
 
 #### Contacts or support
-* lmagosi@well.ox.ac.uk
 * magosil86@gmail.com
 
 
