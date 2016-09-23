@@ -29,7 +29,7 @@ GWAMA
 Lerato E. Magosi
 
 #### Contacts or support
-* magosil86@gmail.com
+magosil86@gmail.com
 
 
 #### References
