@@ -26,10 +26,12 @@ make
 GWAMA
 
 #### Author
-Lerato E. Magosi
+Lerato E. Magosi, Oxford University, U.K.
 
-#### Contacts or Support
-magosil86@gmail.com
+#### Contacts or support
+* lmagosi@well.ox.ac.uk
+* magosil86@gmail.com
+
 
 #### References
 [Magi R, Morris AP: GWAMA: software for genome-wide association meta-analysis. BMC Bioinformatics 2010, 11:288.](http://www.geenivaramu.ee/en/tools/gwama)
